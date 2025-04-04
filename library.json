@@ -1,0 +1,8 @@
+{
+    "name": "MotorControl",
+    "version": "1.0.0",
+    "keywords": "motor, esp32, pwm",
+    "description": "Biblioteca para controle de motores no ESP32",
+    "frameworks": "arduino",
+    "platforms": "espressif32"
+  }
